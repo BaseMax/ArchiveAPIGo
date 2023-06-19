@@ -8,7 +8,7 @@ Before running the Archive API, ensure you have the following installed:
 
 - Go (version X.X.X)
 - Echo framework (version X.X.X)
-- Database system (e.g., PostgreSQL, MySQL)
+- Database system: PostgreSQL
 
 ## Installation
 
@@ -21,7 +21,7 @@ git clone https://github.com/BaseMax/ArchiveAPIGo.git
 Navigate to the project directory:
 
 ```shell
-cd archive-api
+cd ArchiveAPIGo
 ```
 
 Install dependencies:
