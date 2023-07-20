@@ -79,4 +79,9 @@ To obtain a JWT token, make a POST request to /login with valid credentials.
 
 This project is licensed under the GPL-3.0 License.
 
+**Authors:**
+
+- Max Base
+- Amirhosein
+
 Copyright 2023, Max Base
