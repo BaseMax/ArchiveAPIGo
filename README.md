@@ -81,7 +81,7 @@ This project is licensed under the GPL-3.0 License.
 
 **Authors:**
 
-- Max Base
 - Amirhosein
+- Max Base
 
 Copyright 2023, Max Base
